@@ -1,3 +1,6 @@
 body {
     background-color: lightblue;
- }
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrnQB32e5GScDwY49Qw8EojZ0KCmrmWK-1g&usqp=CAU"), url("https://img.youtube.com/vi/jjkljR124uE/mqdefault.jpg");
+    background-position: right top, left top;
+    background-repeat: no-repeat, repeat;
+}
